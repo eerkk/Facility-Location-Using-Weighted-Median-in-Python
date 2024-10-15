@@ -47,3 +47,10 @@ python facility_location.py
 
 The program will print the coordinates of the new facility based on the weighted median calculation.
 
+
+## Additional Resources
+
+For more detailed information about this project and its implementation, you can read my blog post:
+https://medium.com/@elif_erkk/yeni-tesisin-konumunu-belirleme-ağırlıklı-medyan-yöntemi-ile-python-uygulaması-10fe9d479712
+
+
