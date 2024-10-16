@@ -51,6 +51,6 @@ The program will print the coordinates of the new facility based on the weighted
 ## Additional Resources
 
 For more detailed information about this project and its implementation, you can read my blog post:
-https://medium.com/@elif_erkk/yeni-tesisin-konumunu-belirleme-ağırlıklı-medyan-yöntemi-ile-python-uygulaması-10fe9d479712
+https://medium.com/@elif_erkk/determining-new-facility-location-python-application-using-weighted-median-method-64e70074dab2
 
 
