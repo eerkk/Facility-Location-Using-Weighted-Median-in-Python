@@ -1,5 +1,4 @@
 
-```markdown
 # Facility Location using Weighted Median
 
 ## Description
@@ -22,6 +21,7 @@ Machines are located at specific coordinates, and each machine has a certain num
 To run this project, you need to have Python installed on your machine. You can download Python from [python.org](https://www.python.org/downloads/).
 
 ### Clone the Repository
+
 
 You can clone the repository using the following command:
 
